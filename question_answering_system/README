@@ -1,1 +1,5 @@
+Question Answer System
 
+Named Entity Recognition (NER) Classifier takes a question generated from the Wikipedia articles, and predicts the corresponding NER within
+SpaCy definition for that answer. For example, given question "What relative of the racoon is sometimes known as the cat-bear ?", the model can predict the answer type
+will predict it as "ENTY:animal".
