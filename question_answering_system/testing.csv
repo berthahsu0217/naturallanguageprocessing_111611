@@ -1,0 +1,43 @@
+question,q_word,q_pos,root,root_pos,root_lemma,wh_word,wh_head,wh_bigram,wh_pos,wh_head_pos,subj,subj_pos,subj_ner,label
+How did serfdom develop in and then leave Russia ?,,,develop,VB,develop,How,did,"['How', 'did']",WRB,AUX,serfdom,NOUN,,DESC:manner
+What films featured the character Popeye Doyle ?,,,featured,VBD,feature,What,films,"['What', 'films']",WP,NOUN,films,NOUN,,ENTY:cremat
+How can I find a list of celebrities ' real names ?,,,find,VB,find,How,can,"['How', 'can']",WRB,AUX,I,PRON,,DESC:manner
+What fowl grabs the spotlight after the Chinese Year of the Monkey ?,,,grabs,VBZ,grab,What,fowl,"['What', 'fowl']",WDT,NOUN,,,,ENTY:animal
+What is the full form of .com ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,form,NOUN,,ABBR:exp
+What contemptible scoundrel stole the cork from my lunch ?,,,stole,VBD,steal,What,scoundrel,"['What', 'scoundrel']",WP,NOUN,scoundrel,NOUN,,HUM:ind
+What team did baseball 's St. Louis Browns become ?,,,become,VBD,become,What,team,"['What', 'team']",WDT,NOUN,team Browns,PROPN,,HUM:gr
+What is the oldest profession ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,profession,NOUN,,HUM:title
+What are liver enzymes ?,,,are,VBP,be,What,are,"['What', 'are']",WP,AUX,What,PRON,,DESC:def
+Name the scar-faced bounty hunter of The Old West .,,,Name,VB,name,,,[],,,,,,HUM:ind
+When was Ozzy Osbourne born ?,,,born,VBN,bear,When,was,"['When', 'was']",WRB,AUX,Osbourne,PROPN,PERSON,NUM:date
+Why do heavier objects travel downhill faster ?,,,objects,NNS,object,Why,do,"['Why', 'do']",WRB,AUX,,,,DESC:reason
+Who was The Pride of the Yankees ?,,,was,VBD,be,Who,was,"['Who', 'was']",WP,AUX,Pride,PROPN,PERSON,HUM:ind
+Who killed Gandhi ?,,,killed,VBD,kill,Who,killed,"['Who', 'killed']",WP,VERB,Who,PRON,,HUM:ind
+What is considered the costliest disaster the insurance industry has ever faced ?,,,considered,VBN,consider,What,is,"['What', 'is']",WP,AUX,industry,NOUN,,ENTY:event
+What sprawling U.S. state boasts the most airports ?,,,boasts,VBZ,boast,What,sprawling,"['What', 'sprawling']",WDT,VERB,state,NOUN,,LOC:state
+What did the only repealed amendment to the U.S. Constitution deal with ?,,,did,VBD,do,What,did,"['What', 'did']",WP,AUX,,,,DESC:desc
+How many Jews were executed in concentration camps during WWII ?,,,executed,VBN,execute,How,were,"['How', 'were']",WRB,AUX,,,,NUM:count
+What is `` Nine Inch Nails '' ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,Nails,NOUN,,DESC:def
+What is an annotated bibliography ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,What bibliography,NOUN,,DESC:def
+What is the date of Boxing Day ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,date,NOUN,,NUM:date
+What articles of clothing are tokens in Monopoly ?,,,are,VBP,be,What,articles,"['What', 'articles']",WP,NOUN,articles,NOUN,,ENTY:other
+Name 11 famous martyrs .,,,Name,NN,name,,,[],,,,,,HUM:ind
+What 's the Olympic motto ?,,,'s,VBZ,be,What,'s,"['What', ""'s""]",WP,AUX,motto,NOUN,,DESC:desc
+What is the origin of the name ` Scarlett ' ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,origin,NOUN,,DESC:desc
+What 's the second-most-used vowel in English ?,,,'s,VBZ,be,What,'s,"['What', ""'s""]",WP,AUX,vowel,NOUN,ORG,ENTY:letter
+Who was the inventor of silly putty ?,,,was,VBD,be,Who,was,"['Who', 'was']",WP,AUX,inventor,NOUN,,HUM:ind
+What is the highest waterfall in the United States ?,,,is,VBZ,be,What,is,"['What', 'is']",WP,AUX,waterfall,NOUN,,LOC:other
+Name a golf course in Myrtle Beach .,,,Name,VB,name,,,[],,,,,,ENTY:other
+Which two states enclose Chesapeake Bay ?,,,enclose,NN,enclose,Which,states,"['Which', 'states']",WDT,NOUN,states,NOUN,,LOC:state
+What does the abbreviation AIDS stand for ?,,,stand,VB,stand,What,does,"['What', 'does']",WP,AUX,AIDS,PROPN,,ABBR:exp
+What does a spermologer collect ?,,,collect,VB,collect,What,does,"['What', 'does']",WP,AUX,spermologer,NOUN,,ENTY:other
+How many points make up a perfect fivepin bowling score ?,,,make,VBP,make,How,points,"['How', 'points']",WRB,NOUN,points,NOUN,,NUM:count
+Which company that manufactures video-game hardware sells the `` super system '' ?,,,sells,VBZ,sell,that,manufactures,"['that', 'manufactures']",WDT,VERB,company that,PRON,,HUM:gr
+How many Community Chest cards are there in Monopoly ?,,,are,VBP,be,How,cards,"['How', 'cards']",WRB,NOUN,cards,NOUN,,NUM:count
+What do Mormons believe ?,,,believe,VB,believe,What,do,"['What', 'do']",WP,AUX,Mormons,NOUN,,DESC:desc
+When did the neanderthal man live ?,,,live,VB,live,When,did,"['When', 'did']",WRB,AUX,man,NOUN,,NUM:date
+In what religion was Isis the nature goddess ?,,,was,VBD,be,what,religion,"['what', 'religion']",WDT,NOUN,Isis,PROPN,,ENTY:religion
+Where do the adventures of `` The Swiss Family Robinson '' take place ?,,,take,VB,take,Where,do,"['Where', 'do']",WRB,AUX,adventures,NOUN,,LOC:other
+What relative of the racoon is sometimes known as the cat-bear ?,,,known,VBN,know,What,relative,"['What', 'relative']",WDT,NOUN,,,,ENTY:animal
+How can I register my website in Yahoo for free ?,,,register,VB,register,How,can,"['How', 'can']",WRB,AUX,I,PRON,,DESC:manner
+What was cash-conscious Colonel Edwin L. Drake the first to drill ?,,,was,VBD,be,What,was,"['What', 'was']",WP,AUX,Drake,PROPN,PERSON,ENTY:other
